@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablosf1
 - 👀 I’m interested in Software and its social applications
-- 🌱 I’m currently studying Software Engineering in UMA
+- 🌱 I’m a Software Engineer
 - 📫 How to reach me ... via e-mail: pabloserranosedeno@gmail.com
 
 <!---
